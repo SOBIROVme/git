@@ -1,2 +1,1 @@
-# git
-github and git vash
+# Github va Git orqali ishlash
